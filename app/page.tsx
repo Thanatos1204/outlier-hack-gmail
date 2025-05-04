@@ -669,7 +669,7 @@ const toggleFocusMode = () => {
       {/* Header */}
       <header className="flex items-center justify-between p-2 bg-white border-b border-gray-200">
         <div className="flex items-center">
-          <IntegrationHub />
+         
           <button className="p-2 rounded-full hover:bg-gray-100">
             <Menu size={20} />
           </button>
@@ -723,6 +723,7 @@ const toggleFocusMode = () => {
               <path d="M12 17h.01"></path>
             </svg>
           </button>
+          <IntegrationHub />
           <button className="p-2 rounded-full hover:bg-gray-100">
             <Settings size={20} className="text-gray-600" />
           </button>
