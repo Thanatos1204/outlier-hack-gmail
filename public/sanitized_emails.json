@@ -1,0 +1,200 @@
+[
+  {
+    "id": 1,
+    "sender": "Marketplace",
+    "username": "deals@marketplace.com",
+    "subject": "Your profile was viewed 12 times",
+    "content": "- Here's what\u2019s new in your community.",
+    "fullContent": "<div style='padding:20px;'><h3>Your profile was viewed 12 times</h3><p>- Here's what\u2019s new in your community.</p><p>This is a longer version of the content used for demonstration purposes. It provides a more detailed look at the email content so users can read the full message.</p><button style='padding:10px;background:#007bff;color:#fff;border:none;border-radius:4px;'>Take Action</button></div>",
+    "date": "Apr 23",
+    "read": false,
+    "category": "social"
+  },
+  {
+    "id": 2,
+    "sender": "Launch Pad",
+    "username": "launch@producthub.com",
+    "subject": "New follower alert \ud83c\udf89",
+    "content": "- Don't miss out on our limited-time sale!",
+    "fullContent": "<div style='padding:20px;'><h3>New follower alert \ud83c\udf89</h3><p>- Don't miss out on our limited-time sale!</p><p>This is a longer version of the content used for demonstration purposes. It provides a more detailed look at the email content so users can read the full message.</p><button style='padding:10px;background:#007bff;color:#fff;border:none;border-radius:4px;'>Take Action</button></div>",
+    "date": "May 04",
+    "read": false,
+    "category": "primary"
+  },
+  {
+    "id": 3,
+    "sender": "Dev Weekly",
+    "username": "updates@devweekly.com",
+    "subject": "Security Alert: New sign-in detected",
+    "content": "- Don't miss out on our limited-time sale!",
+    "fullContent": "<div style='padding:20px;'><h3>Security Alert: New sign-in detected</h3><p>- Don't miss out on our limited-time sale!</p><p>This is a longer version of the content used for demonstration purposes. It provides a more detailed look at the email content so users can read the full message.</p><button style='padding:10px;background:#007bff;color:#fff;border:none;border-radius:4px;'>Take Action</button></div>",
+    "date": "Apr 22",
+    "read": false,
+    "category": "promotions"
+  },
+  {
+    "id": 4,
+    "sender": "Team Updates",
+    "username": "team@updates.com",
+    "subject": "New follower alert \ud83c\udf89",
+    "content": "- Protect your account with 2FA.",
+    "fullContent": "<div style='padding:20px;'><h3>New follower alert \ud83c\udf89</h3><p>- Protect your account with 2FA.</p><p>This is a longer version of the content used for demonstration purposes. It provides a more detailed look at the email content so users can read the full message.</p><button style='padding:10px;background:#007bff;color:#fff;border:none;border-radius:4px;'>Take Action</button></div>",
+    "date": "Apr 16",
+    "read": false,
+    "category": "social"
+  },
+  {
+    "id": 5,
+    "sender": "Social Feed",
+    "username": "social@network.com",
+    "subject": "This week's trending projects",
+    "content": "- Don't miss out on our limited-time sale!",
+    "fullContent": "<div style='padding:20px;'><h3>This week's trending projects</h3><p>- Don't miss out on our limited-time sale!</p><p>This is a longer version of the content used for demonstration purposes. It provides a more detailed look at the email content so users can read the full message.</p><button style='padding:10px;background:#007bff;color:#fff;border:none;border-radius:4px;'>Take Action</button></div>",
+    "date": "May 04",
+    "read": false,
+    "category": "primary"
+  },
+  {
+    "id": 6,
+    "sender": "Launch Pad",
+    "username": "launch@producthub.com",
+    "subject": "This week's trending projects",
+    "content": "- Don't miss out on our limited-time sale!",
+    "fullContent": "<div style='padding:20px;'><h3>This week's trending projects</h3><p>- Don't miss out on our limited-time sale!</p><p>This is a longer version of the content used for demonstration purposes. It provides a more detailed look at the email content so users can read the full message.</p><button style='padding:10px;background:#007bff;color:#fff;border:none;border-radius:4px;'>Take Action</button></div>",
+    "date": "Apr 04",
+    "read": true,
+    "category": "promotions"
+  },
+  {
+    "id": 7,
+    "sender": "Marketplace",
+    "username": "deals@marketplace.com",
+    "subject": "Your profile was viewed 12 times",
+    "content": "- Explore new trending resources.",
+    "fullContent": "<div style='padding:20px;'><h3>Your profile was viewed 12 times</h3><p>- Explore new trending resources.</p><p>This is a longer version of the content used for demonstration purposes. It provides a more detailed look at the email content so users can read the full message.</p><button style='padding:10px;background:#007bff;color:#fff;border:none;border-radius:4px;'>Take Action</button></div>",
+    "date": "Apr 19",
+    "read": true,
+    "category": "social"
+  },
+  {
+    "id": 8,
+    "sender": "Marketplace",
+    "username": "deals@marketplace.com",
+    "subject": "This week's trending projects",
+    "content": "- Follow these steps to complete your profile.",
+    "fullContent": "<div style='padding:20px;'><h3>This week's trending projects</h3><p>- Follow these steps to complete your profile.</p><p>This is a longer version of the content used for demonstration purposes. It provides a more detailed look at the email content so users can read the full message.</p><button style='padding:10px;background:#007bff;color:#fff;border:none;border-radius:4px;'>Take Action</button></div>",
+    "date": "Apr 04",
+    "read": true,
+    "category": "primary"
+  },
+  {
+    "id": 9,
+    "sender": "Account Services",
+    "username": "security@platform.com",
+    "subject": "You\u2019ve been invited to a new board",
+    "content": "- Protect your account with 2FA.",
+    "fullContent": "<div style='padding:20px;'><h3>You\u2019ve been invited to a new board</h3><p>- Protect your account with 2FA.</p><p>This is a longer version of the content used for demonstration purposes. It provides a more detailed look at the email content so users can read the full message.</p><button style='padding:10px;background:#007bff;color:#fff;border:none;border-radius:4px;'>Take Action</button></div>",
+    "date": "Apr 23",
+    "read": true,
+    "category": "social"
+  },
+  {
+    "id": 10,
+    "sender": "Team Updates",
+    "username": "team@updates.com",
+    "subject": "Security Alert: New sign-in detected",
+    "content": "- Protect your account with 2FA.",
+    "fullContent": "<div style='padding:20px;'><h3>Security Alert: New sign-in detected</h3><p>- Protect your account with 2FA.</p><p>This is a longer version of the content used for demonstration purposes. It provides a more detailed look at the email content so users can read the full message.</p><button style='padding:10px;background:#007bff;color:#fff;border:none;border-radius:4px;'>Take Action</button></div>",
+    "date": "Apr 18",
+    "read": false,
+    "category": "promotions"
+  },
+  {
+    "id": 11,
+    "sender": "Marketplace",
+    "username": "deals@marketplace.com",
+    "subject": "Your profile was viewed 12 times",
+    "content": "- Protect your account with 2FA.",
+    "fullContent": "<div style='padding:20px;'><h3>Your profile was viewed 12 times</h3><p>- Protect your account with 2FA.</p><p>This is a longer version of the content used for demonstration purposes. It provides a more detailed look at the email content so users can read the full message.</p><button style='padding:10px;background:#007bff;color:#fff;border:none;border-radius:4px;'>Take Action</button></div>",
+    "date": "Apr 23",
+    "read": true,
+    "category": "social"
+  },
+  {
+    "id": 12,
+    "sender": "Marketplace",
+    "username": "deals@marketplace.com",
+    "subject": "Security Alert: New sign-in detected",
+    "content": "- Follow these steps to complete your profile.",
+    "fullContent": "<div style='padding:20px;'><h3>Security Alert: New sign-in detected</h3><p>- Follow these steps to complete your profile.</p><p>This is a longer version of the content used for demonstration purposes. It provides a more detailed look at the email content so users can read the full message.</p><button style='padding:10px;background:#007bff;color:#fff;border:none;border-radius:4px;'>Take Action</button></div>",
+    "date": "Apr 06",
+    "read": true,
+    "category": "primary"
+  },
+  {
+    "id": 13,
+    "sender": "Launch Pad",
+    "username": "launch@producthub.com",
+    "subject": "This week's trending projects",
+    "content": "- Here's what\u2019s new in your community.",
+    "fullContent": "<div style='padding:20px;'><h3>This week's trending projects</h3><p>- Here's what\u2019s new in your community.</p><p>This is a longer version of the content used for demonstration purposes. It provides a more detailed look at the email content so users can read the full message.</p><button style='padding:10px;background:#007bff;color:#fff;border:none;border-radius:4px;'>Take Action</button></div>",
+    "date": "Apr 23",
+    "read": false,
+    "category": "primary"
+  },
+  {
+    "id": 14,
+    "sender": "Launch Pad",
+    "username": "launch@producthub.com",
+    "subject": "This week's trending projects",
+    "content": "- See who interacted with your recent post.",
+    "fullContent": "<div style='padding:20px;'><h3>This week's trending projects</h3><p>- See who interacted with your recent post.</p><p>This is a longer version of the content used for demonstration purposes. It provides a more detailed look at the email content so users can read the full message.</p><button style='padding:10px;background:#007bff;color:#fff;border:none;border-radius:4px;'>Take Action</button></div>",
+    "date": "Apr 07",
+    "read": false,
+    "category": "social"
+  },
+  {
+    "id": 15,
+    "sender": "Marketplace",
+    "username": "deals@marketplace.com",
+    "subject": "\ud83d\udd25 24hr Sale - Tools & Templates",
+    "content": "- Protect your account with 2FA.",
+    "fullContent": "<div style='padding:20px;'><h3>\ud83d\udd25 24hr Sale - Tools & Templates</h3><p>- Protect your account with 2FA.</p><p>This is a longer version of the content used for demonstration purposes. It provides a more detailed look at the email content so users can read the full message.</p><button style='padding:10px;background:#007bff;color:#fff;border:none;border-radius:4px;'>Take Action</button></div>",
+    "date": "Apr 07",
+    "read": false,
+    "category": "social"
+  },
+  {
+    "id": 16,
+    "sender": "Dev Weekly",
+    "username": "updates@devweekly.com",
+    "subject": "Welcome to your new workspace!",
+    "content": "- Here's what\u2019s new in your community.",
+    "fullContent": "<div style='padding:20px;'><h3>Welcome to your new workspace!</h3><p>- Here's what\u2019s new in your community.</p><p>This is a longer version of the content used for demonstration purposes. It provides a more detailed look at the email content so users can read the full message.</p><button style='padding:10px;background:#007bff;color:#fff;border:none;border-radius:4px;'>Take Action</button></div>",
+    "date": "Apr 18",
+    "read": false,
+    "category": "promotions"
+  },
+  {
+    "id": 17,
+    "sender": "Platform Bot",
+    "username": "noreply@platform.com",
+    "subject": "Top tips for boosting productivity \ud83d\ude80",
+    "content": "- Your project metrics have been updated.",
+    "fullContent": "<div style='padding:20px;'><h3>Top tips for boosting productivity \ud83d\ude80</h3><p>- Your project metrics have been updated.</p><p>This is a longer version of the content used for demonstration purposes. It provides a more detailed look at the email content so users can read the full message.</p><button style='padding:10px;background:#007bff;color:#fff;border:none;border-radius:4px;'>Take Action</button></div>",
+    "date": "Apr 23",
+    "read": true,
+    "category": "primary"
+  },
+  {
+    "id": 18,
+    "sender": "Marketplace",
+    "username": "deals@marketplace.com",
+    "subject": "This week's trending projects",
+    "content": "- Get started with your dashboard setup.",
+    "fullContent": "<div style='padding:20px;'><h3>This week's trending projects</h3><p>- Get started with your dashboard setup.</p><p>This is a longer version of the content used for demonstration purposes. It provides a more detailed look at the email content so users can read the full message.</p><button style='padding:10px;background:#007bff;color:#fff;border:none;border-radius:4px;'>Take Action</button></div>",
+    "date": "Apr 21",
+    "read": true,
+    "category": "promotions"
+  }
+]
